@@ -1,13 +1,10 @@
 ---
-.title = "About",
+.title = "Resume",
 .date = @date("1990-01-01T00:00:00"),
 .author = "Sample Author",
 .layout = "index.shtml",
 .draft = false,
 --- 
 
-## About Me
-Okay then
-
-## Skateboarding is not a crime
-lol
+## My Resume
+Very busy such work

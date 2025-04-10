@@ -1,17 +1,17 @@
 ---
-.title = "Felice Spiga",
+.title = "It is a me Felice.",
 .date = @date("1990-01-01T00:00:00"),
 .author = "Sample Author",
 .layout = "index.shtml",
 .draft = false,
---- 
+---
 
-This is my persona blog I guess..
+Cloud Support Specialist at Bottega52 in Milan.
 
-## Section One
+felicespiga@gmail.com
 
-lmao
+## About me
 
-## Section Two
+not much honesly, I really like Iceland.
 
-lol
+[A photo I took in Iceland.](<$image.asset("iceland.png").alt("A photo of Iceland.")>)

@@ -11,9 +11,7 @@
 .draft = false,
 --- 
 
-This page
-
-This is the SuperMD frontmatter code that defines the RSS feed:
+Example:
 
 ```ziggy
 .alternatives = [{ 
@@ -22,4 +20,12 @@ This is the SuperMD frontmatter code that defines the RSS feed:
     .output = "index.xml",
 }],
 ```
-[(btw syntax highlighting is done statically in Zine, no need for javascript libraries, unless you want to)]($text.attrs('small'))
+
+```sh
+#!/bin/sh
+echo "Today's date is:"
+date
+ls -l
+```
+
+[(btw syntax highlighting is done statically)]($text.attrs('small'))
