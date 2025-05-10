@@ -11,21 +11,6 @@
 .draft = false,
 --- 
 
-Example:
-
-```ziggy
-.alternatives = [{ 
-    .name = "rss",
-    .layout = "rss.xml", 
-    .output = "index.xml",
-}],
-```
-
-```sh
-#!/bin/sh
-echo "Today's date is:"
-date
-ls -l
-```
-
-[(btw syntax highlighting is done statically)]($text.attrs('small'))
+The idea of ​​a blog is quite new to me, or rather the idea of ​​keeping a personal blog,
+I have always felt that I should listen to someone's opinion rather than having to say my own.
+Recently 

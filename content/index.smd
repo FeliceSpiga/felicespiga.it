@@ -1,17 +1,15 @@
 ---
-.title = "It is a me Felice.",
+.title = "About Me",
 .date = @date("1990-01-01T00:00:00"),
 .author = "Sample Author",
 .layout = "index.shtml",
 .draft = false,
 ---
 
-Cloud Support Specialist at Bottega52 in Milan.
+## >>> Please ATM consider this site a work in progress or a layered sarcastic joke: either is okay. <<<
+
+I like tinkering with PC hardware, gaming, handheld console modding, distributed systems and Iceland.
 
 felicespiga@gmail.com
-
-## About me
-
-not much honesly, I really like Iceland.
 
 [A photo I took in Iceland.](<$image.asset("iceland.png").alt("A photo of Iceland.")>)

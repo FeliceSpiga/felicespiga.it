@@ -25,8 +25,14 @@
     <super>
     <footer>
       <hr>
-      <h5>SITE UNDER CONSTRUCTION</h5>
-      <img src="$site.asset('under-construction.gif').link()" width=90>
+      <span>
+        © 2025
+        <a href="/">Home</a>
+        Powered by
+        <a href="https://zine-ssg.io/" rel="noopener noreferrer" target="_blank">Zine</a>
+         &
+        <a href="https://pages.github.com/" rel="noopener noreferrer" target="_blank">GitHub Pages</a>
+      </span>
     </footer>
   </body>
 </html>
