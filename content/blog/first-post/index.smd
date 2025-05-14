@@ -6,6 +6,6 @@
 .draft = false,
 --- 
 
-Cringe
+Me
 
-[An example of cringe.](<$image.asset("me.jpg").alt("A photo of me.")>)
+[An example of Me.](<$image.asset("me.png").alt("A photo of me.")>)
